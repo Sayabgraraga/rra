@@ -34,11 +34,11 @@ global.location = "Jawa Timur, Indonesia " //ur location
 //new
 global.botname = "loli"
 global.ownernumber = '6285936162097'
-global.ownername = '6285936162097'
+global.ownername = 'bot by haris'
 global.ownerNumber = ["6285936162097@s.whatsapp.net"]
-global.ownerweb = "https://chat.whatsapp.com/D7x50SjM8QyDYZuwCNOZmI"
-global.websitex = "https://chat.whatsapp.com/D7x50SjM8QyDYZuwCNOZmI"
-global.wagc = "https://chat.whatsapp.com/D7x50SjM8QyDYZuwCNOZmI"
+global.ownerweb = "https://shorturl.at/dzHNV"
+global.websitex = "https://shorturl.at/dzHNV"
+global.wagc = "https://shorturl.at/dzHNV"
 global.themeemoji = '🚩'
 global.wm = "loli"
 global.botscript = 'kamu nanyeak escehnya?' //script link
